@@ -1,4 +1,4 @@
-[![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&descAlignY=14&descAlign=0&section=header)
+[![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&descAlignY=14&descAlign=0&section=header)]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54AC05&width=435&lines=Aspiring+a+Full-Stack+Developer)](https://git.io/typing-svg)
 # 💫 Sobre mim:
