@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54AC05&width=435&lines=Aspiring+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
-![](https://capsule-render.vercel.app/api?type=blur&height=500&color=11111&text=Rodrigo%20Moreira&reversal=true&fontColor=00ff60&descAlignY=50&descAlign=49&section=header&animation=blink)
+![](https://capsule-render.vercel.app/api?type=blur&height=500&color=11111&text=Welcome&reversal=true&fontColor=00ff05&descAlignY=50&descAlign=49&section=header&animation=blink)
 # Sobre mim:
 Tenho 27 anos e possuo 5 anos de experiência como Auxiliar Administrativo. Durante esse período, desenvolvi habilidades em gestão administrativa e sistemas ERP.<br><br>📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Anhanguera Pitágoras Unopar de Campo Grande – Polo Suzano/SP. Estou sempre em aprendizado contínuo, com foco em Python e Java, e buscando minha primeira oportunidade na área de TI.<br><br>🎨 Além disso, atuo como freelancer em edição e criação de imagens, utilizando ferramentas de design para desenvolver conteúdos visuais criativos e impactantes.<br><br>🚀 Estou aberto a oportunidades e desafios que me permitam crescer profissionalmente no mundo da tecnologia!<br><br>📩 Contato: rodrigomoreirtiads@gmail.com<br>📱 WhatsApp: 📲 (11) 95809-1715<br>
 
