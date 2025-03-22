@@ -17,5 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=R-Moreiraa&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&descAlignY=50&descAlign=8&section=footer)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
