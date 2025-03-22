@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&descAlignY=14&descAlign=0&section=header)
+![]([https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&descAlignY=14&descAlign=0&section=header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&descAlignY=50&descAlign=49&section=header))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54AC05&width=435&lines=Aspiring+a+Full-Stack+Developer)](https://git.io/typing-svg)
 # 💫 Sobre mim:
@@ -17,5 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=R-Moreiraa&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&descAlignY=50&descAlign=8&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&descAlignY=50&descAlign=8&section=footer)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
